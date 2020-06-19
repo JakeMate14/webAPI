@@ -1,0 +1,15 @@
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.deps.json
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.runtimeconfig.json
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.runtimeconfig.dev.json
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.dll
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.pdb
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.csprojAssemblyReference.cache
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.csproj.CoreCompileInputs.cache
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.RazorAssemblyInfo.cache
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.RazorAssemblyInfo.cs
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.AssemblyInfoInputs.cache
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.AssemblyInfo.cs
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.RazorTargetAssemblyInfo.cache
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.dll
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\NETCoreWebAPISQLServerAzure.pdb
+C:\Users\pengu\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
