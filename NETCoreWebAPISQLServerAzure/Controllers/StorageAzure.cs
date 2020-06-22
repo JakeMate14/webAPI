@@ -11,11 +11,11 @@ namespace NETCoreWebAPISQLServerAzure.Controllers
         public bool Almacenar(string Nombre, string Sexo, int year_adopcion, string esterilizacion, string direccion)
         {
             var connect = new SqlConnection
-                ("Server=tcp:perros.database.windows.net,1433;" +
+                ("Server=" +
                 "Initial Catalog=App_Perror;" +
                 "Persist Security Info=False;" +
-                "User ID=erikroot;" +
-                "Password=6TeQ&KeraN16;" +
+                "User ID=;" +
+                "Password=;" +
                 "MultipleActiveResultSets=False;" +
                 "Encrypt=True;" +
                 "TrustServerCertificate=False;" +
